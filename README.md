@@ -8,7 +8,7 @@ Each row in the dataset represents a single course, while the columns contain at
 This Power BI dashboard project aims to uncover trends, patterns, and actionable insights from the dataset to support strategic decisions in online education, such as content planning, market positioning, and audience engagement optimization.
 # 📸 Dashboard Preview
 
-<img width="911" height="469" alt="Coffe Dasboard" src="https://github.com/Mishra025/Coffee-Sales-Analysis/blob/ffbff55edd2a65fab47df7a98c12ccfe4995576a/Screenshot%202026-03-06%20231841.png" />
+<img width="911" height="469" alt="Coffe Dasboard" src="https://github.com/Mishra025/online-course-analysis-powerbi/blob/16d57d1d9507a54af26d7d71cd47f0ab4db674e5/Dashboard.png" />
 # 🔍 Key Analysis Performed
 ## 1. Course Type Distribution by Category
 - Analyzed the distribution of different course types across various categories.
