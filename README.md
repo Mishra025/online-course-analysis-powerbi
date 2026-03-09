@@ -9,6 +9,7 @@ This Power BI dashboard project aims to uncover trends, patterns, and actionable
 # 📸 Dashboard Preview
 
 <img width="911" height="469" alt="Coffe Dasboard" src="https://github.com/Mishra025/online-course-analysis-powerbi/blob/16d57d1d9507a54af26d7d71cd47f0ab4db674e5/Dashboard.png" />
+
 # 🔍 Key Analysis Performed
 ## 1. Course Type Distribution by Category
 - Analyzed the distribution of different course types across various categories.
